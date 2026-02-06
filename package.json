@@ -1,0 +1,10 @@
+{
+  "name": "xbt-alpha-agent",
+  "version": "1.0.0",
+  "main": "moltbook.js",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.0",
+    "@google/generative-ai": "^0.1.0"
+  }
+}
